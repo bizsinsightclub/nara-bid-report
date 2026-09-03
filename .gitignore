@@ -1,0 +1,7 @@
+# 이 저장소는 공개용 — 리포트 산출물(index.html/.nojekyll)만 담는다.
+# 내부 도구 상태·의존성·비밀은 절대 올리지 않는다.
+.omc/
+node_modules/
+.env
+.env.local
+*.log
